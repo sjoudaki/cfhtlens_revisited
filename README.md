@@ -6,6 +6,6 @@ We also include updated CFHTLenS cosmic shear tomography measurements, as descri
 
 The measurements and fitting pipeline are presented in http://arxiv.org/abs/1601.05786. For the original version of HMcode, please see https://github.com/alexander-mead/hmcode.
 
-Please feel free to contact me at sjoudaki@swin.edu.au.
+Please feel free to contact me at sjoudaki@swin.edu.au if you have any questions.
 
 Shahab Joudaki
