@@ -5,3 +5,7 @@ The file cosmicshear.f90 calculates the 2pt shear correlation functions \xi_+ an
 We also include updated CFHTLenS cosmic shear tomography measurements, as described in the tarball. 
 
 The measurements and fitting pipeline are presented in http://arxiv.org/abs/1601.05786. For the original version of HMcode, please see https://github.com/alexander-mead/hmcode.
+
+Please feel free to contact me at sjoudaki@swin.edu.au.
+
+Shahab Joudaki
